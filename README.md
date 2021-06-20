@@ -1,4 +1,4 @@
-# Vertical Projectile_Motion
+# Vertical Projectile Motion
 Simple animation plot of vertical projectile_motion
 
 # Contact
